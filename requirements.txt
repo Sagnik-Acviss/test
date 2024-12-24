@@ -1,5 +1,5 @@
 streamlit # Ensure compatibility with the latest stable version
 langchain-core # Adjust version based on your Langchain Core compatibility
 langchain-groq  # Adjust version based on your Groq compatibility
-os  # This is a standard Python library; no need to include in requirements
+#os  # This is a standard Python library; no need to include in requirements
 ast  # This is a standard Python library; no need to include in requirements
